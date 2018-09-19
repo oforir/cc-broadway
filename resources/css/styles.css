@@ -7,5 +7,42 @@ body {
 
 /** Main body styles **/
 
+h1 {
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+
+}
+
+.top a {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.mid-banner h3 {
+  color: white;
+  font-weight: bold;
+}
 
 /** Footer styles **/
+
+
+
+/** Background images **/
+.top {
+  background-image: url("../images/background.png");
+}
+
+.mid-banner {
+  background-image: url("../images/background.png");
+}

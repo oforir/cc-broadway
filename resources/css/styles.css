@@ -36,7 +36,19 @@ h3 {
 
 /** Footer styles **/
 
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
 
+span a {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+
+}
 
 /** Background images **/
 .top {
